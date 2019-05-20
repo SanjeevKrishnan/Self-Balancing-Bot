@@ -4,7 +4,7 @@
 #define m 4
 #define c 5
 
-//#define ki 0
+#define ki 0.5
 MPU9250 IMU;
 
 float kp=30;

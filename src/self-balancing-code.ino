@@ -1,6 +1,6 @@
 #include <MPU9250.h>
-#define kp 5.5
-#define kd 6
+#define kp 4
+#define kd 8
 #define m 4
 #define c 5
 

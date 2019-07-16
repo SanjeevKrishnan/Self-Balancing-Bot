@@ -1,5 +1,5 @@
 #include <MPU9250.h>
-#define kp 4
+#define kp 6
 #define kd 8
 #define m 4
 #define c 5
@@ -144,13 +144,14 @@ void gyroreading()
   dt = micros() - Time;
   angle+=(gyro[0]-gyroBias[0])*dt/131.0/1000000.0;
  // kp=m*angle+c;
+  angle2=atan2(acc[1]-accelBias[1],acc[2]-accelBias[2])*180/3.14;
+  //currentAngle=0.9934*(angle)+0.0066*(angle2);
   Time = micros();
 //  Serial.println(angle2);
  Serial.print("angle");
   Serial.println(angle);
   Serial.print("pwm");
   Serial.println(vr);
-
 Serial.println(angle2);
 
 

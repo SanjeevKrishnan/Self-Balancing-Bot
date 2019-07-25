@@ -1,10 +1,10 @@
 #include <MPU9250.h>
-#define kp 5
-#define kd 7
+#define kp 4
+#define kd 8
 #define m 4
 #define c 5
 
-#define ki 0.2
+#define ki 0.0
 MPU9250 IMU;
 
 //float kp=30;

@@ -22,7 +22,7 @@ This self-balancing bot is a two-wheeled robot that balances vertically using a 
  
 ## PHASE 1
 
-![Phase1](https://github.com/SanjeevKrishnan/Self-Balancing-Bot/blob/master/Images%20and%20Videos/Images/Phase%201-View.jpg)
+![Phase1](https://github.com/SanjeevKrishnan/Self-Balancing-Bot/blob/master/Images%20and%20Videos/Images/Phase%201-View.jpeg)
 
 ### Mechanical Aspect
 
@@ -67,7 +67,7 @@ Arduino Mega 2560 R3 is used as the microcontroller board.
 
 ## PHASE 2
 
-![Phase2](https://github.com/SanjeevKrishnan/Self-Balancing-Bot/blob/master/Images%20and%20Videos/Images/Phase%202-Front%20View.jpg)
+![Phase2](https://github.com/SanjeevKrishnan/Self-Balancing-Bot/blob/master/Images%20and%20Videos/Images/Phase%202-Front%20View.jpeg)
 
 ### Mechanical Aspect
 

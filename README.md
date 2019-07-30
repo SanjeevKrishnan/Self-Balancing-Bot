@@ -111,6 +111,15 @@ Arduino Mega 2560 R3 is used as the microcontroller board.
 * Code and algorithm debugging were practiced in depth.
 * Bot was able to move forward along with self-balancing.
 
+## Team Members
+
+1. [Debaditya Barman](https://github.com/itz-debaditya)
+2. [Sanjeev Krishnan](https://github.com/sanjeevkrishnan)
+
+## Mentors
+
+1. [Dhruv Sehgal](https://github.com/dhruv1064)
+
 ## Reference
 <https://www.instructables.com/id/Guide-to-gyro-and-accelerometer-with-Arduino-inclu/>
 
